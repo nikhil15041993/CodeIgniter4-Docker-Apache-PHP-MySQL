@@ -274,3 +274,11 @@ echo "Connected to MySQL successfully!";
 
 
 If everything went alright, if we go to http://localhost, we should see that we are connected to MySQL using the mysqli driver. Don’t worry, we’ve also installed the PDO driver, just in case you like it better.
+
+
+
+
+
+
+
+https://avenir.ro/codeigniter-4-using-docker-apache-mysql/?unapproved=6751&moderation-hash=1b161713fa51ef4b06f2adf74d63f360&comment=6751#comment-6751
