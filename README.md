@@ -282,3 +282,5 @@ If everything went alright, if we go to http://localhost, we should see that we 
 
 
 https://avenir.ro/codeigniter-4-using-docker-apache-mysql/?unapproved=6751&moderation-hash=1b161713fa51ef4b06f2adf74d63f360&comment=6751#comment-6751
+
+https://tecadmin.net/install-codeigniter-ubuntu-20-04/
